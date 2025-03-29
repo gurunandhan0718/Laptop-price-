@@ -5,7 +5,7 @@ This project aims to predict laptop prices based on their specifications using m
 
 **📁 Project Structure**
 - `Laptop_price.csv` – The dataset containing laptop specifications and prices
-- `Laptop_price_analysis.ipynb` – Jupyter notebook for data analysis and model building
+- `Laptop_price.ipynb` – Jupyter notebook for data analysis and model building
 
 
 **🔍 Key Objectives**
