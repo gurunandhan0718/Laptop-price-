@@ -1,6 +1,6 @@
 **🖥️ Laptop Price Prediction 💰📊**
 
-This project aims to predict laptop prices based on their specifications using machine learning models. The analysis explores various factors influencing laptop prices and leverages regression techniques for accurate price estimation.
+As laptops come with a wide range of specifications and features, their prices vary significantly. This project aims to develop a machine learning model that predicts the price of a laptop based on key attributes such as brand, processor, RAM, storage, and other hardware specifications. By analyzing a dataset of laptop specifications and prices, this project provides valuable insights for consumers, retailers, and manufacturers. It helps potential buyers estimate the price range of a laptop before purchasing, assists retailers in pricing strategies, and aids manufacturers in understanding pricing trends.
 
 
 **📁 Project Structure**
